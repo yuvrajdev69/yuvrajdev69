@@ -1,8 +1,8 @@
 ## Hi there 👋
 # 💫 About Me:
 🔭 I’m currently working on<br>Improving my programming skills and building small projects using Python and JavaScript<br><br>👯 I’m looking to collaborate on<br>Beginner-friendly projects related to web development and cybersecurity<br><br>🤝 I’m looking for help with<br>Advanced Python, JavaScript, and real-world project development<br><br>🌱 I’m currently learning<br>Data Structures, Linux, and cybersecurity tools like Nmap, Wireshark, and Metasploit<br><br>💬 Ask me about<br>Python basics, JavaScript fundamentals, Linux, networking concepts, and basic penetration testing<br><br>⚡ Fun fact<br>I enjoy exploring new technologies and practicing cybersecurity in controlled environments<br><br>📫 How to reach me<br>yuvraj.dev69@gmail.com<br><br>☕ Support my work<br>
-![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-donate-yellow.svg)
-(https://buymeacoffee.com/yuvraj.dev69)
+![Buy Me A Coffee]
+(buymeacoffee.com/yuvraj.dev69)
 
 
 # 💻 Tech Stack:
